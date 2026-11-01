@@ -2,54 +2,54 @@
   "format": "UBSDownloadChecksums/v1",
   "files": [
     {
-      "filename": "UBS_Mobile_3.2.3_both.apk",
-      "bytes": 29218449,
-      "sha256": "a0d9743756c999fa8c3d0f2ac0ff8ec126147fe844388f3fd0c9b7b9bbe77971"
+      "filename": "UBS_Mobile_3.2.4_both.apk",
+      "bytes": 29225001,
+      "sha256": "7c4b67014a944c86ee3152b77e73c4e8dbf5df7af71c8c11c65c734801168f4b"
     },
     {
-      "filename": "UBS_Mobile_3.2.3_companion.apk",
-      "bytes": 29218413,
-      "sha256": "ecc98871beaef7cee5525d9baa250fc8389007d0a5402001807a29e9ba87fbe5"
+      "filename": "UBS_Mobile_3.2.4_companion.apk",
+      "bytes": 29225029,
+      "sha256": "af889fda986dac627db3790ed195794e74d9443669a30cc2db55f051988f3241"
     },
     {
-      "filename": "UBS_Mobile_3.2.3_multiple.apk",
-      "bytes": 29218441,
-      "sha256": "d6c4ef7ab516847eb4c688f10e37dcc8aadd103e73e39fd84099e94dbc0c8b3c"
+      "filename": "UBS_Mobile_3.2.4_multiple.apk",
+      "bytes": 29225021,
+      "sha256": "62468646b7228b50eacdd354c9eab548759625bb43be275c3a0103fc64a14560"
     },
     {
-      "filename": "UBS_Mobile_3.2.3_single.apk",
-      "bytes": 29218445,
-      "sha256": "e91d7e9cd3cc4449e05d9940676c3de85b1f4dc0271627d409f27d93eef69df2"
+      "filename": "UBS_Mobile_3.2.4_single.apk",
+      "bytes": 29224969,
+      "sha256": "eddf15f97219f598f84f5042d6f6146d32699efd530765b3ef0988757e3fa774"
     },
     {
-      "filename": "UBS_Mobile_3.2.3_trial.apk",
-      "bytes": 29218445,
-      "sha256": "28cf9c91ea01f7d1aad28e5fb132c831d8ecd0b5c8bf3b2c532f51e09717d7bc"
+      "filename": "UBS_Mobile_3.2.4_trial.apk",
+      "bytes": 29224953,
+      "sha256": "90bccdef314789a5a5fc1b7d45b398799631510741e9006776e0c8895e635136"
     },
     {
-      "filename": "UBS_Both_3.2.3.exe",
-      "bytes": 29716598,
-      "sha256": "63a6a55a2009aaf645d68e4b18ac1c07f57b8e60f600c9934c54c3491ffd1b9b"
+      "filename": "UBS_Both_3.2.4.exe",
+      "bytes": 29721800,
+      "sha256": "f9c12ee8fdc5a5fc6b4408ddd553fbbc27ba791608ecebb4115f2537446f8e5f"
     },
     {
-      "filename": "UBS_Multiple_Devices_3.2.3.exe",
-      "bytes": 29716285,
-      "sha256": "9df470d83d184e3645e847e30693fc49cb08d66441d3857995914d240aa28b64"
+      "filename": "UBS_Multiple_Devices_3.2.4.exe",
+      "bytes": 29722772,
+      "sha256": "e6c001046bb2d352525e253cb9a24ce8d56526ae5e6f3f187a0495bb4d4860f8"
     },
     {
-      "filename": "UBS_Single_Device_3.2.3.exe",
-      "bytes": 29715988,
-      "sha256": "7f5c86f6120c6e84905257d7b304104c82866fd4b6302fd1c667ed34713080d9"
+      "filename": "UBS_Single_Device_3.2.4.exe",
+      "bytes": 29721978,
+      "sha256": "2cf10959d243fa17562acada97ec374b8687de449b5fce5bce3deb344a0713aa"
     },
     {
-      "filename": "UBS_Trial_3.2.3.exe",
-      "bytes": 29715545,
-      "sha256": "79a167961d300ec6f3645fc45e52978a294fb626e83c5f26a1795199a52ed5d2"
+      "filename": "UBS_Trial_3.2.4.exe",
+      "bytes": 29721622,
+      "sha256": "49af8b6fbd315c0d724f649ff0cb691828c6e41d15752c12678c5b9bd8c03d23"
     },
     {
-      "filename": "UBS_Universal_3.2.3.exe",
-      "bytes": 29117406,
-      "sha256": "5d8ad8f6b26d83e839869ccb103d036f3657e679774ae1ebe99ccea1199acec9"
+      "filename": "UBS_Universal_3.2.4.exe",
+      "bytes": 29120789,
+      "sha256": "476e8110ab464b86f8eb836b9e5869e94d4684243735197e1b90a9f246c3a81d"
     }
   ]
 }
