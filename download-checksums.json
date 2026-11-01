@@ -1,0 +1,50 @@
+{
+  "format": "UBSDownloadChecksums/v1",
+  "files": [
+    {
+      "filename": "UBS_Mobile_3.2.0_both.apk",
+      "bytes": 29190233,
+      "sha256": "8712a677fb793d15a312789b3e87bd0fa520fc938bc4ab30fb6fce9f092c016f"
+    },
+    {
+      "filename": "UBS_Mobile_3.2.0_companion.apk",
+      "bytes": 29190269,
+      "sha256": "d91ab5923b81c56385c6f67e05d99cb9b0d4927de4ea3bddb42a812c61e215ff"
+    },
+    {
+      "filename": "UBS_Mobile_3.2.0_multiple.apk",
+      "bytes": 29190249,
+      "sha256": "c3e1d15deb7b8ac1bbd2553390c5ecddac1e0a1dfe53cc1b0eb301aff5913c6e"
+    },
+    {
+      "filename": "UBS_Mobile_3.2.0_single.apk",
+      "bytes": 29190249,
+      "sha256": "82c9498cf1b10d624d669b081cf4cbbcda21376411fd0164ba79f7f30e14524d"
+    },
+    {
+      "filename": "UBS_Mobile_3.2.0_trial.apk",
+      "bytes": 29190233,
+      "sha256": "2c1f5e8e482d4330ea97b8c07616929c36fd39de7993abc11d206c104608434a"
+    },
+    {
+      "filename": "UBS_Both_3.2.0.exe",
+      "bytes": 29701703,
+      "sha256": "f9302e3c2981e2077fbdbe494757756d9b055e1c1f4adc79a2ed7b9b536c7519"
+    },
+    {
+      "filename": "UBS_Multiple_Devices_3.2.0.exe",
+      "bytes": 29701828,
+      "sha256": "94d23cc2e0621bdd643885513725265cef015f4ba46ec3f3e1a72509a93261d5"
+    },
+    {
+      "filename": "UBS_Single_Device_3.2.0.exe",
+      "bytes": 29701069,
+      "sha256": "971b96a8ced492994377a9e492c8a73394616a8e3e24e1289d7ff36d67df4b98"
+    },
+    {
+      "filename": "UBS_Trial_3.2.0.exe",
+      "bytes": 29700408,
+      "sha256": "7ccbe420ec4459ed464df177b8644335af2be8854f4291ff2c545a9d8e5eeb2f"
+    }
+  ]
+}
