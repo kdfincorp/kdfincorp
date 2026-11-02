@@ -2,54 +2,14 @@
   "format": "UBSDownloadChecksums/v1",
   "files": [
     {
-      "filename": "UBS_Mobile_3.2.5_both.apk",
-      "bytes": 29256313,
-      "sha256": "b7b19f5249a56d95d86e6c067a014f182840d60b4c7f00684b49926c7ddffe32"
+      "filename": "UltimateBookkeeping_Setup_v3.4.1.exe",
+      "bytes": 24063551,
+      "sha256": "590c2597fbe0050e60e689868f669b89bcfeee2cd0d950f969c95766b8b06a66"
     },
     {
-      "filename": "UBS_Mobile_3.2.5_companion.apk",
-      "bytes": 29256313,
-      "sha256": "4a071a141280a2633c5d73ba4043f4756b711a61b930a6ea45c602b4021be1ce"
-    },
-    {
-      "filename": "UBS_Mobile_3.2.5_multiple.apk",
-      "bytes": 29256281,
-      "sha256": "29cf8dff458f7a3dd325933d78c2a0cc88238e369fc2cb106821ab43e65fbd95"
-    },
-    {
-      "filename": "UBS_Mobile_3.2.5_single.apk",
-      "bytes": 29256313,
-      "sha256": "996c192ba80856ec13c855235afa8c2d5e61840a90998d25610496ccdb4cca8b"
-    },
-    {
-      "filename": "UBS_Mobile_3.2.5_trial.apk",
-      "bytes": 29256309,
-      "sha256": "c1c48405aa16f55df0c9a086596b87151b83c17257993c81d4895bc4d1c43644"
-    },
-    {
-      "filename": "UBS_Both_3.2.5.exe",
-      "bytes": 29740428,
-      "sha256": "ffa50a3656915487e823fb372cacb0354e9998ee3c6e9d94e7753f49bff77385"
-    },
-    {
-      "filename": "UBS_Multiple_Devices_3.2.5.exe",
-      "bytes": 29739345,
-      "sha256": "be528afab6b02f1b41ac26a6d38c0740d89cccb8525dd3c35ece2ff58cee196e"
-    },
-    {
-      "filename": "UBS_Single_Device_3.2.5.exe",
-      "bytes": 29737682,
-      "sha256": "b0379b8b77ab5269969165636e8151485434a211fb3d9408ed8af858c5dd51e8"
-    },
-    {
-      "filename": "UBS_Trial_3.2.5.exe",
-      "bytes": 29739590,
-      "sha256": "9c2f6e09fccc95ffb313a3215bb2f3816d920fd9887420559ae610b96c36cf88"
-    },
-    {
-      "filename": "UBS_Universal_3.2.5.exe",
-      "bytes": 29139780,
-      "sha256": "0e446e0ad997db23f01ba71a615e5ad3c239573bb4f2b90298a7a6f3345793f7"
+      "filename": "UBS_Mobile_3.4.1.apk",
+      "bytes": 30876116,
+      "sha256": "915d639daa292108b44525df020f3ef5288f0b70059de15f9883498b0b0bd95c"
     }
   ]
 }
