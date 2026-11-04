@@ -20,7 +20,7 @@ const answers=[
 [/offline|internet|connect/i,'Day-to-day accounting and the Windows bill reader work offline after initial account verification and activation. Internet is used for cloud backups, licence updates and downloading software updates.'],
 [/lan|network|multi.*user/i,'LAN hosting is built into UBS for eligible admin-approved licences. Use Settings to configure the host and connect approved client devices on the same local network. Ask KD FINCORP to enable LAN access on your licence.'],
 [/lag|slow|error|crash|stuck|button/i,'First update Windows UBS to 3.4.6. If a screen still stalls or controls are clipped, contact the team with the screen name, steps that caused it and the error text. Avoid sharing passwords or licence keys in screenshots.'],
-[/contact|human|support|help|hello|hi\b/i,'Use “Contact the KD FINCORP team” below for help with your account, a demo or an issue. You can also email kdsoftwaresindia@gmail.com or call +91 87270 74564.']];
+[/contact|human|support|help|hello|hi\b/i,'Use “Contact the KD FINCORP team” below for help with your account, a demo or an issue. You can also email kdfincorpindia@gmail.com or call +91 87270 74564.']];
 function reply(text){add(text,true);const match=answers.find(([pattern])=>pattern.test(text));add(match?match[1]:'I do not have a reliable answer for that question. Please contact the KD FINCORP team below with the screen name and what you want to do.');}
 for(const label of ['Scan a bill','Map a payment','Cloud backup','Download & update']){const b=document.createElement('button');b.type='button';b.textContent=label;b.onclick=()=>reply(label);panel.querySelector('#ubs-help-topics').append(b);}
 function close(){panel.hidden=true;launcher.setAttribute('aria-expanded','false');launcher.focus();}

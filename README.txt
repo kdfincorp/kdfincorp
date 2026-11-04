@@ -6,7 +6,7 @@ Files:
 - style.css    Complete responsive styling
 - script.js    Mobile menu + subtle reveal animation
 
-Email: kdsoftwaresindia@gmail.com
+Email: kdfincorpindia@gmail.com
 Phone: 8727074564
 
 FREE PUBLIC HOSTING (GitHub Pages)
