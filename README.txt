@@ -40,3 +40,6 @@ CORPORATE EDITION
 Blue and white design matching supplied logos. Upload index.html, style.css,
 script.js and the complete assets folder together. Actual UBS interface image
 is included in assets/ubs-interface.png.
+
+Windows 3.5.2: single 173.4 MB EXE with all app features, scan/save and login/update fixes. The unchanged AI model downloads once directly from its external host (about 2.5 GB), then inference runs offline. Existing models are retained. No Oracle model storage is used. https://github.com/kdfincorp/kdfincorp/releases/tag/ubs-3.5.2
+Android remains 3.4.1.
