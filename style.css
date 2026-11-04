@@ -7,7 +7,7 @@
 
 .email-link{overflow-wrap:anywhere}
 
-/* Official KD SOFTWARES and UBS brand assets */
+/* Official KD FINCORP and UBS brand assets */
 .brand-image{width:52px;height:54px;object-fit:contain;border-radius:12px;flex-shrink:0}.product-logo{display:block;width:min(100%,400px);height:auto;border-radius:10px;margin-bottom:28px}.ubs-logo-image{display:block;width:100%;height:auto;object-fit:contain;background:#fff;border-radius:5px}.panel-logo img{display:block;width:120px;height:auto;border-radius:22px}@media(max-width:760px){.brand-image{width:44px;height:46px}.product-logo{width:min(100%,320px)}}
 
 /* Corporate edition */

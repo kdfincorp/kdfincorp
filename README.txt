@@ -1,4 +1,4 @@
-KD SOFTWARES WEBSITE
+KD FINCORP WEBSITE
 ====================
 
 Files:
@@ -34,7 +34,7 @@ Open index.html in a browser to preview. Upload all five files, including
 favicon.svg, to your web host. This package does not itself publish the website.
 Google Fonts load when online; local fallback fonts work offline.
 
-Brand assets: assets/kds-logo.jpeg is the supplied KD SOFTWARES logo. assets/ubs-logo.png is the supplied UBS logo. Upload the assets folder together with index.html, style.css and script.js.
+Brand assets: assets/kds-logo.jpeg is the supplied KD FINCORP logo. assets/ubs-logo.png is the supplied UBS logo. Upload the assets folder together with index.html, style.css and script.js.
 
 CORPORATE EDITION
 Blue and white design matching supplied logos. Upload index.html, style.css,
