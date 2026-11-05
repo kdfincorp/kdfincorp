@@ -12,16 +12,16 @@ Phone: 8727074564
 FREE PUBLIC HOSTING (GitHub Pages)
 ----------------------------------
 1. Create/sign in to a GitHub account at https://github.com/
-2. Create a new PUBLIC repository, for example: kd-softwares-website
+2. Create a new PUBLIC repository, for example: kdfincorp
 3. Upload index.html, style.css and script.js.
 4. Open repository Settings -> Pages.
 5. Under "Build and deployment", choose "Deploy from a branch".
 6. Select the main branch and the root folder, then Save.
 7. GitHub will provide a public address similar to:
-   https://YOUR-USERNAME.github.io/kd-softwares-website/
+   https://YOUR-USERNAME.github.io/kdfincorp/
 
 CUSTOM DOMAIN:
-You can later connect a domain such as kdsoftwares.in if you purchase one.
+You can later connect a domain such as kdfincorp.in if you purchase one.
 
 PREMIUM EDITION
 --------------
