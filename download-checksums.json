@@ -2,14 +2,14 @@
   "format": "UBSDownloadChecksums/v1",
   "files": [
     {
-      "filename": "UltimateBookkeeping_Setup_v3.5.8.exe",
-      "bytes": 173424755,
-      "sha256": "6280bd2ac9494ebd04d374c90711db76b1cd0af7d4975edac281361dbf5bcf42"
+      "filename": "UltimateBookkeeping_Setup_v3.5.9.exe",
+      "bytes": 173425958,
+      "sha256": "6f71aa79e644b41803c8ee3b78fc68e7cf8fb508899d58392a6c2efdff8930e6"
     },
     {
-      "filename": "UBS_Mobile_3.5.8.apk",
-      "bytes": 29523217,
-      "sha256": "1e8cae3fb8b68ecdd178ad138251a9f2edd7a625e3f7ff000f2e67c5ab599b19"
+      "filename": "UBS_Mobile_3.5.9.apk",
+      "bytes": 29524821,
+      "sha256": "10853790c87fc469fee4df08855194570d221a5d9169d392cc708e0c1318f535"
     }
   ]
 }
