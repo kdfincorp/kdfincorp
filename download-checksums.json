@@ -2,19 +2,19 @@
   "format": "UBSDownloadChecksums/v1",
   "files": [
     {
-      "filename": "UltimateBookkeeping_Setup_v3.6.0.exe",
-      "bytes": 173521945,
-      "sha256": "fa6ea7bdbd07e504ba3b5477f21741a53f4fad723ae95ffb53f21fd9592609fb"
+      "filename": "UltimateBookkeeping_Setup_v3.6.1.exe",
+      "bytes": 173521898,
+      "sha256": "a567705cdde5bde88a366fae7d5d2af1b86897c93b057e22720a43bbc14f4d4e"
     },
     {
-      "filename": "UBS_Mobile_3.6.0.apk",
-      "bytes": 31280560,
-      "sha256": "8cb2118f5e8e94e615e8084a6cac910273d31b08043cdda38f62882fb1bdecbc"
+      "filename": "UBS_Mobile_3.6.1.apk",
+      "bytes": 29580021,
+      "sha256": "f8a69ee0f6f1101083c7b57922eb5baa95e873c77dd2ca28acddd00c26469635"
     },
     {
-      "filename": "UBS_LAN_Server_3.6.0.exe",
-      "bytes": 27241708,
-      "sha256": "d0a2139d66f1bddae3635b56d8e88cfec367e48e7a4283335ac2f083b86f34ae"
+      "filename": "UBS_LAN_Server_3.6.1.exe",
+      "bytes": 27241024,
+      "sha256": "603cf18f47935d1cee1a51a7b4720694128af7416c27e14868c7c71b733bd864"
     }
   ]
 }
