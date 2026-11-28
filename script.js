@@ -7,7 +7,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();menu.fo
 window.addEventListener('resize',()=>{if(window.innerWidth>760)closeMenu();});
 
 const interfaceViews={
- dashboard:{image:'assets/ubs-dashboard.png',tag:'DASHBOARD',title:'Your business at a glance.',alt:'Actual UBS dashboard with demo sales, purchases, profit and payment reminders',caption:'See net sales, purchases, profit and upcoming payments in the UBS dashboard. Shown with fictional demo data.'},
+ dashboard:{image:'assets/ubs-pc-dashboard-v312.png',tag:'DASHBOARD',title:'Your business at a glance.',alt:'Actual UBS dashboard with demo sales, purchases, profit and payment reminders',caption:'See net sales, purchases, profit and upcoming payments in the UBS dashboard. Shown with fictional demo data.'},
  billing:{image:'assets/ubs-billing.png',tag:'BILLING & GST',title:'From line items to a sales bill.',alt:'Actual UBS sale bill form with demo customer, item quantities, rates and GST',caption:'Create sales bills with party details, item quantities, prices and GST rates. Shown with fictional demo data.'},
  reports:{image:'assets/ubs-reports.png',tag:'FINANCIAL REPORTS',title:'A clear view of your account balances.',alt:'Actual UBS trial balance showing demo account names and balanced debit and credit totals',caption:'Review account balances and debit and credit totals in the trial balance. Shown with fictional demo data.'}
 };
